@@ -1,0 +1,11 @@
+{
+  "name": "learning-hapi",
+  "version": "1.0.0",
+  "description": "Learning Hapi.js",
+  "main": "index.js",
+  "author": "Juan Jose Vega",
+  "license": "MIT",
+  "dependencies": {
+    "@hapi/hapi": "^20.1.2"
+  }
+}
